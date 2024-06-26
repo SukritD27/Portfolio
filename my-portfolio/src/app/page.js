@@ -11,7 +11,7 @@ export default function Home() {
             <BsFillMoonStarsFill className=""cursor-pointer text-2xl></BsFillMoonStarsFill>
           </li>
           <li>
-            <a href="../public/Dhawan-Sukrit-Resume.pdf" download="Dhawan-Sukrit-Resume.pdf">Resume</a>
+            <a href="../public/Dhawan-Sukrit-Resume.pdf" download="Dhawan-Sukrit-Resume.pdf">Resume11</a>
           </li>
         </ul>
       </nav>
